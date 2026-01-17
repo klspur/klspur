@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Cheng-Yan 👋
 
-<!--
-**klspur/klspur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on **SQL, BI dashboards, and data automation**.  
+Currently exploring **Vibe Coding** and **product-oriented side projects**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- SQL (ETL, Stored Procedure, Query Optimization)
+- BI Dashboards & Reporting
+- Python (Data Processing, ETL)
+- Git & GitHub (learning by doing)
+
+---
+
+## 📊 Featured Projects
+> Selected projects showcasing data analysis and creative coding.
+
+- **Healthcare Data Analysis**  
+  SQL-based analysis and dashboard automation projects.
+
+- **Vibe Coding Experiments**  
+  Small interactive projects exploring ideas, UI, and logic.
+
+---
+
+## 📒 Learning Notes
+- SQL & Data Modeling Notes  
+- Code Basics  
+- Programming experiments & reflections
+
+---
+
+## 🎯 Currently Working On
+- Improving data engineering and analytics skills  
+- Building small but complete side projects  
+- Learning to turn ideas into working products
+
+---
+
+📫 Feel free to explore my repositories and follow my learning journey.
